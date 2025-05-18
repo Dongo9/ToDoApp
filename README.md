@@ -1,5 +1,5 @@
 # TODO App
-A simple to-do application meant as a list of tasks (reminder) to be carried out by the user
+A simple to-do application meant as a list of tasks (reminder) to be carried out by the user.
 
 ### Dependencies / Development environment
 * All dependencies included in the **pom.xml** file.
@@ -12,8 +12,8 @@ A simple to-do application meant as a list of tasks (reminder) to be carried out
 * Run the Spring Boot Application main class **TodoappApplication**
 
 ## Authors
-ex. [Manuel Donato](https://www.linkedin.com/in/manuel-donato/)
+[Manuel Donato](https://www.linkedin.com/in/manuel-donato/)
 
 ## Version History
-* 0.1
+* 1.0
     * Initial Release (18-05-2025)
